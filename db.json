@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "name": "Sandy",
+      "email": "s@gmail.com",
+      "password": "123456",
+      "phone": "017927",
+      "Aphone": "018555",
+      "social": "facebook.com",
+      "bloodGroup": "B+",
+      "weight": "Gretter then 50 Kg",
+      "gender": "Male",
+      "street": "11,Adabor",
+      "city": "Dhaka",
+      "PostalCode": "1206",
+      "age": "28",
+      "date": "6",
+      "month": "May",
+      "ImageName": "oie_t4k2ZxlL7YbH.jpg",
+      "id": 1
+    },
+    {
+      "name": "Sandy",
+      "email": "s@gmail.com",
+      "password": "123456",
+      "phone": "017927",
+      "Aphone": "018555",
+      "social": "facebook.com",
+      "bloodGroup": "B+",
+      "weight": "Gretter then 50 Kg",
+      "gender": "Male",
+      "street": "11,Adabor",
+      "city": "Dhaka",
+      "PostalCode": "1206",
+      "age": "28",
+      "date": "6",
+      "month": "May",
+      "ImageName": "oie_319226o7wOMEmb.jpg",
+      "id": 2
+    }
+  ]
+}
